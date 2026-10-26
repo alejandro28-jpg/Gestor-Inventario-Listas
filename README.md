@@ -6,7 +6,7 @@ Obejtivo
 
 Programa de consola en Python para administrar el inventario de una tienda pequeña. Permite registrar, consultar, buscar, modificar y eliminar productos con su cantidad disponible. El objetivo es practicar el manejo de listas, índices, ciclos, condicionales y funciones.
 
-Autor: Alejandro Rojas - Grupo: Alejandro Rojas, Sara Montaña
+Autor: Alejandro Rojas
 
 Requisitos
 
